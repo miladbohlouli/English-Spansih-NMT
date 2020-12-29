@@ -1,6 +1,6 @@
-## Neural Machine Translation (NMT) for Spanish to English
+## Neural Machine Translation (NMT) for English to Spanish
 
-Encoder-Decoders have been used in many applications to change the form of data. In terms of languages, it could be used to translate among different languages. In the above project an Encoder-Decoder structure has been used to translate from Spanish to English. There may be two main approaches for this mechanism
+Encoder-Decoders have been used in many applications to change the form of data. In terms of languages, it could be used to translate among different languages. In the above project an Encoder-Decoder structure has been used to translate from English to Spanish. There may be two main approaches for this mechanism
 
 1. Char based translation
 2. Word based translation
